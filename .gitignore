@@ -1,5 +1,5 @@
 node_modules
-*.js
-!_*.js
+# *.js
+# !_*.js
 bundle.js.map
 package-lock.json
